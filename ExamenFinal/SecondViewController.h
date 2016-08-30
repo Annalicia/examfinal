@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "cellHome.h"
+#import "ProductDetail.h"
+
 
 @interface SecondViewController : UIViewController
 
